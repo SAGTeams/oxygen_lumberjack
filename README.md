@@ -21,5 +21,14 @@
 6. Matikan fungsi pekerjaan lumberjack lama pada oxygen_disnaker. Agar fungsi-fungsi menebang pohon tidak bentrok
 7. Selamat script lumberjack anda berhasil diinstal...
 
+**PREVIEW**
+
+![Screenshot 2025-02-24 104553](https://github.com/user-attachments/assets/8ea3d641-9498-4795-a863-5cb5bb895cf6)
+![Screenshot 2025-02-24 104726](https://github.com/user-attachments/assets/1362f0c7-eeb5-40e6-8d54-e0e90c715071)
+![Screenshot 2025-02-24 104712](https://github.com/user-attachments/assets/bd7346a7-484c-4cd3-912e-7f972b0b3e8f)
+![Screenshot 2025-02-24 104655](https://github.com/user-attachments/assets/0c2bb722-f7a0-4f13-932a-616f2bbc9c50)
+![Screenshot 2025-02-24 104622](https://github.com/user-attachments/assets/139b1f60-b62a-4823-9509-482b73a096d0)
+
+
 #Author : sag_0989 
 #Discord : https://discord.gg/ZKZJWTTxpr
