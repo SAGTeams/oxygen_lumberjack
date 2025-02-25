@@ -14,7 +14,7 @@
 
 **Cara Pemasangan**
 1. Download Update Patch oxygen_lumberjack Versi 1.0.7
-2. Extrack File dan pindahkan oxygen_petani ke folder [qb]
+2. Extrack File dan pindahkan oxygen_lumberjack ke folder [qb]
 3. Buka README.md dan copy item lalu pindahkan ke qb-core > shared > items.lua
 4. Buka folder image pindahkan semua image ke oxygen_inventory > html > images
 5. Buka server.cfg dan ensure oxygen_lumberjack dibawah oxygen_lockpick
